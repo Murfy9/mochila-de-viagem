@@ -9,4 +9,5 @@ Curso na Alura - JavaScript na Web: armazenando dados no navegador
 
 Aprendendo o comportamento e registrando dados no LocalStorage e criando objetos no JavaScript.
 
+<img src="mochilaDeViagem.png" alt="Mochila de Viagem">
 </div>
